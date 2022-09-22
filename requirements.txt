@@ -1,0 +1,3 @@
+opencv_python_headless==4.5.4.60
+PyAutoGUI==0.9.53
+PyScreeze==0.1.28
