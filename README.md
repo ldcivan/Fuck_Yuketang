@@ -2,7 +2,7 @@
 一个因为懒得挂雨课堂还要不停切换页码而写的python，基于opencv和pyautoGUI<br>
 <b>吃饭的时候电脑不仅能挂机还能翻页，岂不美哉？</b>
 <h3>用法</h3>
-跑完ready.bat再跑run.bat，一般没问题，有问题发Issues给我
+仅需要跑完ready.bat再跑run.bat，一般只要装了python和pip就没问题，有问题发Issues给我
 <h3>进阶</h3>
 添加data内的PNG格式的页码按钮截图可以将翻页范围拓展到60页以后
 <h3>未完成</h3>
